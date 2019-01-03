@@ -1,0 +1,13 @@
+{
+  "software_info":{
+        "OS_Build_Version": "1.1.0",
+        "MARCoMain": {
+            "Build_Version": "0.15.0",
+            "Build_Date": "1-3-19"
+        },
+        "electronApp": {
+            "Build_Version": "0.1.0",
+            "Build_Date": "1-3-19"
+        }
+    }
+}
