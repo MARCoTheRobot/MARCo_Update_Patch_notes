@@ -2,6 +2,11 @@
 
 Update History:
 
+2/4/19:
+Final change performed before testing;
+Included communication with hardware peripherals in code
+Fixed synchronicity issues with cheerup functions
+
 1/31/19: 
 Fixed issue with microphone button.
 
