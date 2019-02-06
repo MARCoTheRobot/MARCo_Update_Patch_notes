@@ -2,6 +2,11 @@
 
 Update History:
 
+2/6/19:
+Improved security issues
+Added/expanded functionality for cheerup videos
+Modifications to GUI
+
 2/4/19:
 Final change performed before testing;
 Included communication with hardware peripherals in code
