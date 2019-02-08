@@ -2,6 +2,9 @@
 
 Update History:
 
+2/7/19:
+Added important updates for GUI to match dialog
+
 2/6/19:
 Improved security issues
 Added/expanded functionality for cheerup videos
