@@ -1,6 +1,10 @@
 # MARCo_Update_Patch_notes
 
 Update History:
+3/27/19
+. Fixed severe unique identifier issue
+. Fixed CBT icon to match other icons
+- Removed double talking error
 
 3/4/19:
 + Added pomodoro technique
