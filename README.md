@@ -2,10 +2,11 @@
 
 Update History:
 4/15/19
-Added quick replies and protips
-Added CSSRS page
-Added support for custom cheerups
-Improved GUI
++ Added quick replies and protips
++ Added CSSRS page
++ Added support for custom cheerups
++ Improved GUI
+
 
 
 3/27/19
