@@ -1,6 +1,14 @@
 # MARCo_Update_Patch_notes
 
 Update History:
+5/31/19
++ Added new add-user routine
++ Revised user file and cheerup
++ Added new to CBT
++ Improved GUI
+
+
+Update History:
 4/15/19
 + Added quick replies and protips
 + Added CSSRS page
