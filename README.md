@@ -5,7 +5,8 @@ Update History:
 + Added new add-user routine
 + Revised user file and cheerup
 + Added new to CBT
-+ Improved GUI
++ Improved GUI and fixed missing issues
++ Added new window view
 
 
 Update History:
