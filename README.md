@@ -1,6 +1,7 @@
 # MARCo_Update_Patch_notes
 
 Update History:
+
 6/2/19
 + Added flash player support
 + Fixed new window view
