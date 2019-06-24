@@ -1,6 +1,11 @@
 # MARCo_Update_Patch_notes
 
 Update History:
+6/24/19:
++ Added full variable text and payload response handling
++ Added shut down functionality
++ Fixed logout functionality so that MARCo's LEDs would shut off
+
 6/2/19
 + Added flash player support
 + Fixed new window view
