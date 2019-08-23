@@ -1,6 +1,12 @@
 # MARCo_Update_Patch_notes
 
 Update History:
+8/22/19:
++ Added GUI updates
++ Added onboard response generator
++ Fixed audio issues with MARCo Revision B
++ Added journal form
+
 6/24/19:
 + Added full variable text and payload response handling
 + Added shut down functionality
