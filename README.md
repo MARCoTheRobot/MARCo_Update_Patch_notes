@@ -1,6 +1,7 @@
 # MARCo_Update_Patch_notes
 
 Update History:
+
 8/30/19:
 + Fixed journal issues
 + Added additional data logging
