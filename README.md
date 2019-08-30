@@ -1,6 +1,11 @@
 # MARCo_Update_Patch_notes
 
 Update History:
+8/30/19:
++ Fixed journal issues
++ Added additional data logging
++ Minor improvements
+
 8/22/19:
 + Added GUI updates
 + Added onboard response generator
