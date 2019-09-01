@@ -1,6 +1,8 @@
 # MARCo_Update_Patch_notes
 
 Update History:
+8/31/19
++ Fixed onboard response issues
 
 8/30/19:
 + Fixed journal issues
