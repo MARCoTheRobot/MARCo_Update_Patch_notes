@@ -1,6 +1,9 @@
 # MARCo_Update_Patch_notes
 
 Update History:
+9/29/19:
++ Fixed severe bug for adding a new user
+
 8/31/19
 + Fixed onboard response issues
 
