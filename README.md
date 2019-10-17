@@ -1,6 +1,10 @@
 # MARCo_Update_Patch_notes
 
 Update History:
+
+10/16/19
++ Fixed severe bug for user recognition
+
 9/29/19:
 + Fixed severe bug for adding a new user
 
