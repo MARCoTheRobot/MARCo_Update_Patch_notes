@@ -2,6 +2,10 @@
 
 Update History:
 
+11/7/19
++ Added a complete textual login procedure
++ Added a dedicated sleep page and recording form
+
 10/16/19
 + Fixed severe bug for user recognition
 
