@@ -2,6 +2,11 @@
 
 Update History:
 
+1/24/2020
++ Added quick/public login option
++ Added default emergency phone numbers for quick/public login option
++ Fixed issue with quick replies not properly adding to screen
+
 11/7/19
 + Added a complete textual login procedure
 + Added a dedicated sleep page and recording form
