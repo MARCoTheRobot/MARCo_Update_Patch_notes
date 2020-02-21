@@ -1,6 +1,8 @@
 # MARCo_Update_Patch_notes
 
 Update History:
+2/21/2020
++ Fixed major bug which crashed system when trying to text message from quick login
 
 1/24/2020
 + Added quick/public login option
