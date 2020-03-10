@@ -1,6 +1,12 @@
 # MARCo_Update_Patch_notes
 
+
+
 Update History:
+3/10/20
++ Moved some cloud function functionality on board due to cold-start times freezing system
+
+
 2/21/2020
 + Fixed major bug which crashed system when trying to text message from quick login
 
