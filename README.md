@@ -3,6 +3,10 @@
 
 
 Update History:
+
+4/6/2020
++ Added ability for MARCo to text a user remotely between sessions when in sleep mode
+
 3/10/20
 + Moved some cloud function functionality on board due to cold-start times freezing system
 
