@@ -3,6 +3,9 @@
 
 
 Update History:
+8/15/2020
++ Added Open Talks support
+
 
 
 4/6/2020
