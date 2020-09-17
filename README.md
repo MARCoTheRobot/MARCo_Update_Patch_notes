@@ -3,6 +3,11 @@
 
 
 Update History:
+
+9/17/2020
++ Improvements for new user flow
++ Fixed missing images
+
 8/15/2020
 + Added Open Talks support
 
