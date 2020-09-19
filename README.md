@@ -4,6 +4,9 @@
 
 Update History:
 
+9/19/20
++ Added ability to update emergency contacts
+
 9/17/2020
 + Improvements for new user flow
 + Fixed missing images
