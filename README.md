@@ -4,6 +4,7 @@
 
 Update History:
 9/25/20
+
 + Added better error handling
 + Fixed talk support errors
 + Added face correction option
