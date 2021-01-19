@@ -3,6 +3,9 @@
 
 
 Update History:
+1/19/21:
++ Last rollout before major upgrades
+
 9/25/20
 
 + Added better error handling
